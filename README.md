@@ -1,8 +1,6 @@
+![gh_17810254f3db_258](https://github.com/user-attachments/assets/4bbcabe4-ee80-4f62-8d1b-f76bd4a0bac8)
+
  **郑重声明：项目经过本地测试，确保可以运行， 可以用于学习和毕业设计参考~** 
-
-:point_right: [点我获得系统源码](https://x-x.fun/e/XT35c9fcddKaK)
-
-:fire: [点我获得更多系统源码](http://blog.cyrobot.top/blog) 
 
 ####  1.项目介绍
 
